@@ -1,6 +1,6 @@
 Name:		texlive-emisa
 Version:	60068
-Release:	1
+Release:	2
 Summary:	A LaTeX package for preparing manuscripts for the journal EMISA
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emisa
