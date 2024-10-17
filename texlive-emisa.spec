@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	A LaTeX package for preparing manuscripts for the journal EMISA
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emisa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/emisa
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emisa.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emisa.doc.r%{version}.tar.xz
